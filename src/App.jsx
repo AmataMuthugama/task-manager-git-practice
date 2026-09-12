@@ -21,6 +21,7 @@ function App() {
   return (
     <>
       <h1>Task Manager</h1>
+	<h2>Your Daily task handler</h2>
 
       <input
         type="text"
